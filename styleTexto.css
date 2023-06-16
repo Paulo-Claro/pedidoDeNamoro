@@ -1,0 +1,19 @@
+@font-face {
+    font-family:'Purple Smile';
+    src: url('PurpleSmile.ttf') format('truetype');
+    
+}
+body{
+    background-color: rgb(206, 0, 189);
+}
+main {
+    display: flex;
+    color: rgb(36, 0, 30);
+    width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    font-size: 20px;
+    border-radius: 52px;
+    background: linear-gradient(145deg, #bfbfe6, #e3e3ff);
+    box-shadow: 17px 17px 31px #797991;
+}
